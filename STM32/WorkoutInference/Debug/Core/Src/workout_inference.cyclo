@@ -1,0 +1,7 @@
+../Core/Src/workout_inference.c:51:6:Workout_Init	3
+../Core/Src/workout_inference.c:90:6:Workout_AddSample	8
+../Core/Src/workout_inference.c:118:6:Workout_ShouldInfer	1
+../Core/Src/workout_inference.c:123:13:prepare_input_buffer	3
+../Core/Src/workout_inference.c:139:6:Workout_RunInference	8
+../Core/Src/workout_inference.c:183:13:Workout_GetName	2
+../Core/Src/workout_inference.c:190:6:Workout_ResetBuffer	1

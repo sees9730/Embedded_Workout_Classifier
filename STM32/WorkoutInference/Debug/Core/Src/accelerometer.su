@@ -1,0 +1,6 @@
+../Core/Src/accelerometer.c:26:13:init_i2c	40	static
+../Core/Src/accelerometer.c:52:20:write_reg	32	static
+../Core/Src/accelerometer.c:57:20:read_regs	32	static
+../Core/Src/accelerometer.c:63:6:Accel_Init	8	static
+../Core/Src/accelerometer.c:83:6:convert_to_gs	16	static
+../Core/Src/accelerometer.c:90:6:Accel_ReadRaw	24	static

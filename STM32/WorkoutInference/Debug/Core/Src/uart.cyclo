@@ -1,0 +1,7 @@
+../Core/Src/uart.c:15:5:getchar_polled	2
+../Core/Src/uart.c:21:6:putchar_polled	2
+../Core/Src/uart.c:27:5:getchar_nonblocking	2
+../Core/Src/uart.c:36:6:sendString	2
+../Core/Src/uart.c:42:6:sendStringGreen	1
+../Core/Src/uart.c:48:6:sendCharGreen	1
+../Core/Src/uart.c:54:6:UART_Init	1
